@@ -33,5 +33,6 @@ public class Lab002_Variables {
         x = y;
         y = temp;
         System.out.println("After " + x + y);
+        System.out.println("END");
     }
 }
