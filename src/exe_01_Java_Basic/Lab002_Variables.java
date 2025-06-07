@@ -36,3 +36,4 @@ public class Lab002_Variables {
         System.out.println("END");
     }
 }
+
